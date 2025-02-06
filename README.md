@@ -35,3 +35,11 @@ Task Tracker CLI es una aplicación de línea de comandos que te permite gestion
 git clone https://github.com/fransierraco/Task-Tracker.git
 cd Task-Tracker
 ```
+
+---
+
+## 🌍 Proyecto basado en Roadmap.sh
+
+Este proyecto es parte de la iniciativa de código de:
+
+🔗 [Roadmap.sh - Task Tracker](https://roadmap.sh/projects/task-tracker)
